@@ -1,0 +1,17 @@
+{
+	"author": {
+		"email": "hunar.roop@gmail.com",
+		"name": "Hunar Roop Kahlon"
+	},
+	"bugs": "https://github.com/webpowered/config/issues",
+	"description": "Configuration files for WebPowered projects",
+	"homepage": "https://github.com/webpowered/config",
+	"license": "MIT",
+	"name": "@webpowered/config",
+	"packageManager": "bun@1.1.42",
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": "https://github.com/webpowered/config",
+	"version": "0.0.0"
+}
