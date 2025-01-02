@@ -4,6 +4,9 @@
 		"name": "Hunar Roop Kahlon"
 	},
 	"bugs": "https://github.com/webpowered/config/issues",
+	"dependencies": {
+		"@biomejs/biome": "^1.9.4"
+	},
 	"description": "Configuration files for WebPowered projects",
 	"homepage": "https://github.com/webpowered/config",
 	"license": "MIT",
