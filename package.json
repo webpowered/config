@@ -8,6 +8,13 @@
 		"@biomejs/biome": "^1.9.4"
 	},
 	"description": "Configuration files for WebPowered projects",
+	"files": [
+		"biome.json",
+		"bun.lockb"
+	],
+	"exports": {
+		"./biome": "./biome.json"
+	},
 	"homepage": "https://github.com/webpowered/config",
 	"license": "MIT",
 	"name": "@webpowered/config",
@@ -16,5 +23,6 @@
 		"access": "public"
 	},
 	"repository": "https://github.com/webpowered/config",
+	"type": "module",
 	"version": "0.0.0"
 }
