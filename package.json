@@ -16,6 +16,9 @@
 		"./biome": "./biome.json"
 	},
 	"homepage": "https://github.com/webpowered/config",
+	"imports": {
+		"#*": "./*"
+	},
 	"license": "MIT",
 	"name": "@webpowered/config",
 	"packageManager": "bun@1.1.42",
